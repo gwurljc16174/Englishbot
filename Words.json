@@ -1,0 +1,27 @@
+[
+  {
+    "word": "apple",
+    "translation": "яблоко",
+    "definition": "A round fruit with red, green, or yellow skin."
+  },
+  {
+    "word": "book",
+    "translation": "книга",
+    "definition": "A set of written pages bound together."
+  },
+  {
+    "word": "computer",
+    "translation": "компьютер",
+    "definition": "An electronic device for storing and processing data."
+  },
+  {
+    "word": "school",
+    "translation": "школа",
+    "definition": "A place where children go to learn."
+  },
+  {
+    "word": "water",
+    "translation": "вода",
+    "definition": "A clear liquid that all plants and animals need to survive."
+  }
+]
